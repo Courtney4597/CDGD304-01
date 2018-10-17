@@ -1,11 +1,22 @@
 body {
-    font-family: Bryant;
+    font-family: Asap;
+    font-weight: 400;
+    color: floralwhite;
+    background-color: #e8cbaf
 }
 h1{
-    font-family: domaine display;
-    font-size:260%;
-    color: peru; 
+    font-family: Pattaya;
+    font-size:200px;
+    line-height: 180px;
+    color: #7e6ee7; 
 }
-body {
-    background-color: papayawhip
+h3{
+    font-family: Asap;
+    font-weight: 500;
+    font-size: 35px;
+    color: floralwhite;
+}
+img {
+    width:100;
+    height:100
 }
