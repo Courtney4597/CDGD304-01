@@ -1,24 +1,36 @@
 body {
-    font-family: Asap;
+    font-family: Montserrat;
     font-weight: 400;
-    font-size: 25px;
-    color: floralwhite;
-    background-color: #e8cbaf
+    font-size: 20px;
+    color: black;
+    background-color:floralwhite;
+    line-height: 25px;
+        
 }
 h1{ font-family: Pattaya;
-    font-size:100px;
-    line-height: 180px;
-    color: #7e6ee7; 
+    font-size:150px;
+    line-height: 160px;
+    color: #4949f2; 
 }
 h3{
-    font-family: Asap;
+    font-family: Montserrat;
     font-weight: 400;
-    color: floralwhite;
+    color: black;
     background-color: #e8cbaf
 }
 
 }
 img {
-    width:200;
-    height:200
+    padding: 20px;
+    width="200"
+    height="200"
+
+}
+
+p{
+    font-family: Montserrat;
+      font-weight: 400;
+    font-size: 20px;
+    color: black;
+    line-height: 30px;
 }
