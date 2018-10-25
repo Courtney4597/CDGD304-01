@@ -1,24 +1,25 @@
 body {
-    font-family: Montserrat;
+    font-family: Chakra Petch;
     font-weight: 400;
     font-size: 20px;
     color: black;
-    background-color:floralwhite;
+    background-color:ghostwhite;
     line-height: 25px;
+    text-align: center;
 
 }
-h1{ font-family: Pattaya;
+h1{ font-family: Shrikhand;
     font-size:150px;
     line-height: 160px;
-    color: #4949f2; 
-    margin-bottom: 70px;
-    margin-top: 160px;
+    color: #001b5a; 
+    margin-bottom: -500 px;
+    margin-top: 70px;
 }
 h3{
-    font-family: Montserrat;
+    font-family: Chakra Petch;
     font-weight: 400;
     color: black;
-    background-color: #e8cbaf
+    background-color: #001b5a
 }
 
 
@@ -27,9 +28,22 @@ img { margin-right: 20px;
 
 
 p{
-    font-family: Montserrat;
+    font-family: Chakra Petch;
     font-weight: 400;
     font-size: 17px;
-    color: black;
+    color: #001b5a;
     line-height: 28px;
+}
+
+p.menu {
+    font-size: 20px;
+    color:#001b5a;
+    margin-bottom: 200px;
+    margin-top: 40px;
+    text-align: right;
+    margin-right: 50px;
+}
+
+form{
+    line-height: 10px;
 }
