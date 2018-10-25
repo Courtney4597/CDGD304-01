@@ -5,12 +5,14 @@ body {
     color: black;
     background-color:floralwhite;
     line-height: 25px;
-        
+
 }
 h1{ font-family: Pattaya;
     font-size:150px;
     line-height: 160px;
     color: #4949f2; 
+    margin-bottom: 70px;
+    margin-top: 160px;
 }
 h3{
     font-family: Montserrat;
@@ -19,18 +21,15 @@ h3{
     background-color: #e8cbaf
 }
 
-}
-img {
-    padding: 20px;
-    width="200"
-    height="200"
 
+img { margin-right: 20px;
 }
+
 
 p{
     font-family: Montserrat;
-      font-weight: 400;
-    font-size: 20px;
+    font-weight: 400;
+    font-size: 17px;
     color: black;
-    line-height: 30px;
+    line-height: 28px;
 }
