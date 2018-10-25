@@ -1,26 +1,28 @@
 body{
-    background-color: floralwhite;
+    background-color: ghostwhite;
+    text-align: center;
 }
 
 h1{
-    font-family: Pattaya;
+    font-family: Shrikhand;
     font-size:110px;
     line-height: 160px;
-    color: #4949f2; 
+    color: #001b5a; 
     margin-bottom: 10px;
-    margin-top: 160px;
+    margin-top: 140px;
 }
 
 h3{
-    font-family: Montserrat;
+    font-family: Chakra Petch;
     font-weight: 500;
     color: black;
-    line-height: 30px;
-    margin-bottom: 200px;
+    font-size: 20px;
+    line-height: 31px;
+    margin-bottom: 80px;
 }
 
 p{
-    font-family: Montserrat;
+    font-family: Chakra Petch;
     font-weight: 500;
     color: black;
     font-size: 15px;
@@ -37,3 +39,17 @@ p.Cover{
     height: 900px;
     margin-bottom: 60px;
 }
+
+p.menu {
+    font-size: 20px;
+    color:#001b5a;
+    margin-bottom: 140px;
+    margin-top: 40px;
+    text-align: right;
+    margin-right: 50px;
+}
+    
+    p.cover{
+        width: 700px; !important!
+        height: 700px; !important!
+    }    
