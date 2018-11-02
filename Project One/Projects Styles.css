@@ -15,7 +15,7 @@ h1{
 h3{
     font-family: Chakra Petch;
     font-weight: 500;
-    color: black;
+    color: #001b5a;
     font-size: 20px;
     line-height: 31px;
     margin-bottom: 80px;
@@ -24,7 +24,7 @@ h3{
 p{
     font-family: Chakra Petch;
     font-weight: 500;
-    color: black;
+    color: #001b5a;
     font-size: 15px;
 }
 
@@ -35,7 +35,7 @@ img{
 }
 
 p.Cover{
-     width: 900px;
+    width: 900px;
     height: 900px;
     margin-bottom: 60px;
 }
@@ -48,8 +48,24 @@ p.menu {
     text-align: right;
     margin-right: 50px;
 }
-    
-    p.cover{
-        width: 700px; !important!
-        height: 700px; !important!
-    }    
+
+img.cover{
+    width: 900px;
+    height: 900px;
+}
+
+img.melanin{
+    width: 900px;
+    height: 680px;
+    margin-bottom: 60px;
+}
+
+img.swatches{
+    width: 500px;
+    height: 700px;   
+}
+
+img.booklet{
+    width: 1000px;
+    height: 600px;   
+}
