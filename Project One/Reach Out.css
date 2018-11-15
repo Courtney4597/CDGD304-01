@@ -47,3 +47,8 @@ p.menu {
 form{
     line-height: 10px;
 }
+
+p.submit{
+    
+    margin-bottom: 50px;
+}
