@@ -19,8 +19,22 @@ h1{ font-family: 'Playfair Display', serif;
 }
 
 p{
-font-family:'EB Garamond', serif; 
+    font-family:'EB Garamond', serif; 
     font-weight: 400;
-color: white;
-font-size: 15px;
+    color: white;
+    font-size: 15px;
+
+
+}
+
+a:link{
+    color: white;
+} 
+
+a: visitied {
+    color: white;
+}
+
+a:hover{
+    color: goldenrod;
 }

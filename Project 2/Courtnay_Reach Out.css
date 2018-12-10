@@ -7,10 +7,10 @@ body {
 h1{ text-align: center;
     font-family: 'Playfair Display', serif;
     font-weight: 700;
-    font-size: 90px;
+    font-size: 70px;
     color: white;
     margin-bottom: 40px;
-    margin-top: 100px;
+    margin-top: 30px;
     letter-spacing: 20px;
 }
 h2{
@@ -40,7 +40,7 @@ p.menu{
     font-weight: 400;
     color: white;
     font-size: 17px;
-    margin-bottom: 100px;
+    margin-bottom: 70px;
 }
 
 textarea.form{
@@ -57,6 +57,32 @@ p.description{
     color: white;
     font-size: 23px;
     line-height: 30px;
-    margin-bottom: 50px;
+    margin-bottom: 120px;
     
+}
+
+
+
+
+a:link{
+    color: white;
+} 
+
+a:visitied{
+    color: white;
+}
+
+a:hover{
+    color: goldenrod;
+}
+
+img.portrait{
+    
+    height: 200px;
+    width: 200px;
+}
+
+p.submit{
+    
+    margin-bottom: 50px;
 }
