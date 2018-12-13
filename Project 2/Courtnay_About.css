@@ -90,6 +90,8 @@ img.resume {
         width: 700px
 }
 
+a { color:white}
+
 a:link{
     color: white;
 } 

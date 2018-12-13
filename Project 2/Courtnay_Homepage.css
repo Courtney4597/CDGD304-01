@@ -27,7 +27,9 @@ p{
 
 }
 
-a:link{
+a { color:white}
+
+a:link {
     color: white;
 } 
 
